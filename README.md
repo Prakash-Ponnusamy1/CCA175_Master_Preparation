@@ -1,1 +1,1 @@
-# [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](prakashponnusamy@hotmail.com)
+# [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/prakashponnusamy)
