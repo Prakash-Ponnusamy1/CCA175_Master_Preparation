@@ -5,13 +5,7 @@ Here are the tips for the exam.
 3. You can also ask for time remaining to complete the exam
 4. Download proper packages for avro - 2.4.0 works
 5. Set the configuration to spark.conf.set('spark.sql.shuffle.partitions','2') 
-6. You can check the files in HDFS by following this process.
 
-```
-import os
-os.system('hdfs dfs -ls [path_to_output_directory]')
-os.system('ls -ltr')
-```
 
 If this project helps you to clear CCA175 with flying colors, you can give me a cup of coffee :)
 
